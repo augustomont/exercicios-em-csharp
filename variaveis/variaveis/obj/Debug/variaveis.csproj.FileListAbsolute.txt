@@ -1,0 +1,8 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\bin\Debug\variaveis.exe.config
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\bin\Debug\variaveis.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\bin\Debug\variaveis.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\obj\Debug\variaveis.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\obj\Debug\variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\obj\Debug\variaveis.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\variaveis\variaveis\obj\Debug\variaveis.pdb
