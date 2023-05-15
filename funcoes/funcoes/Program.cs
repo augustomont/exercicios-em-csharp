@@ -16,10 +16,13 @@ namespace funcoes
             int idade = Math.Abs(int.Parse(Console.ReadLine()));// usei o Math.Asb para transformar em numero absoluto(sempre positivo)
             Console.WriteLine("Digite o valor do seu salário:");
             float invest = float.Parse(Console.ReadLine());
+            
 
-            exibirMsg(nome);//sem parametro
-            exibirIdade(idade);//com parametro
+            exibirMsg(nome);//sem retorno
+            exibirIdade(idade);//com parametro && com return
             investimento(invest);//com parametro
+
+            Console.WriteLine("E voce terá " + idadeFutura(idade));
             
 
 
@@ -27,7 +30,7 @@ namespace funcoes
             Console.ReadLine();
         }
         //Função de exibir nome
-        static void exibirMsg(string nomeF) //função com parametro vazio
+        static void exibirMsg(string nomeF) //função com restorno vazio (void)
         {
             Console.WriteLine("Olá "+nomeF+"!");
         }
@@ -53,6 +56,13 @@ namespace funcoes
         {
             valor = (valor / 10) * 60;
             Console.WriteLine("Se voce investier 10% do seu salario, voce terá " + valor + " daqui a 5 anos.");
+        }
+
+        //Função com Tipo definido, é obrigado a dar return
+        static int idadeFutura(int ida)
+        {
+            ida = ida + 5;
+            return ida;
         }
     }
 }
