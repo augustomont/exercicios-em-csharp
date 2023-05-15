@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.Threading.Tasks;
 namespace variaveis
 {
     internal class Program
@@ -38,12 +38,19 @@ namespace variaveis
             Console.WriteLine(alturaV);
             Console.WriteLine(nomeV);
 
-            // Para variaveis dinamicas, que podem mudar o tipo depois
+            // Para variaveis dinamicas, que podem mudar o tipo depois. Pouca performace.
 
             dynamic alturaD = 1.71f;
-            alturaD = "1.71";
+            alturaD = "1.74";
 
             Console.WriteLine(alturaD);
+
+            // Constante usa o const antes de um tipo de variavel
+
+            const float PI = 3.14f;
+
+            Console.WriteLine(PI);
+
 
             Console.ReadLine();
         }

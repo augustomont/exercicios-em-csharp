@@ -1,0 +1,8 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\bin\Debug\inserindoDados.exe.config
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\bin\Debug\inserindoDados.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\bin\Debug\inserindoDados.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\obj\Debug\inserindoDados.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\obj\Debug\inserindoDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\obj\Debug\inserindoDados.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\obj\Debug\inserindoDados.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\inserindoDados\inserindoDados\obj\Debug\inserindoDados.pdb
