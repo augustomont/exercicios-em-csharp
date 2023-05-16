@@ -8,8 +8,10 @@ using System.Threading.Tasks;
 namespace @switch
 {
     internal class Program
+        
     {
-        enum Cor { Vermelho = 1, Azul, Verde, Amarelo} //(enum)Cria um novo tipo de dado
+        //(enum)Cria um novo tipo de dado
+        enum Cor { Vermelho = 1, Azul, Verde, Amarelo} //Vermelho = 1 para mudar o indice de referencia
         static void Main(string[] args)
         {
             Console.WriteLine("Escolha uma opção:");
@@ -21,6 +23,7 @@ namespace @switch
 
           switch (corSelecionada)
             {
+            //Usando Cor.Vermelho para treinar o enum. Mas fica mais facil converter para int, e usar apenas o numero.
                 case Cor.Vermelho:
                     Console.WriteLine("Sua cor preferida é o Vermelho");
                     break;
