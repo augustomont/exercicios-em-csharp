@@ -6,3 +6,11 @@ C:\Users\cliente\Desktop\Programação\c#\chatgpt\formularioCadastro\switch\swit
 C:\Users\cliente\Desktop\Programação\c#\chatgpt\formularioCadastro\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
 C:\Users\cliente\Desktop\Programação\c#\chatgpt\formularioCadastro\switch\switch\obj\Debug\@switch.exe
 C:\Users\cliente\Desktop\Programação\c#\chatgpt\formularioCadastro\switch\switch\obj\Debug\@switch.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\obj\Debug\switch.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\obj\Debug\switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\obj\Debug\@switch.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\obj\Debug\@switch.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\bin\Debug\@switch.exe.config
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\bin\Debug\@switch.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\switch\switch\bin\Debug\@switch.pdb
