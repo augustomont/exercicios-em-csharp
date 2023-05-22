@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\bin\Debug\net7.0\RadarVelocidade.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\bin\Debug\net7.0\RadarVelocidade.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\bin\Debug\net7.0\RadarVelocidade.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\bin\Debug\net7.0\RadarVelocidade.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\bin\Debug\net7.0\RadarVelocidade.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\refint\RadarVelocidade.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\RadarVelocidade.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\victor-lima\exercicios-em-csharp\RadarVelocidade\RadarVelocidade\RadarVelocidade\obj\Debug\net7.0\ref\RadarVelocidade.dll
